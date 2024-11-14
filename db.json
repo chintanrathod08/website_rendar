@@ -1,0 +1,492 @@
+{
+  "menproduct": [
+    {
+      "id": "1",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1728892043_5695322.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Plaid Shacket: Arctic",
+      "Dis": "Men Flannel Shackets",
+      "Price": 2299,
+      "Type": "men",
+      "Rating": "4.4",
+      "wtype": "top"
+    },
+    {
+      "id": "2",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1722346461_8868211.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Harry Potter: The Houses",
+      "Dis": "Men Oversized Hoodies",
+      "Price": 1799,
+      "Type": "men",
+      "Rating": "4.1",
+      "wtype": "top"
+    },
+    {
+      "id": "3",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1728893416_6770753.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Ombre: Classic Brown",
+      "Dis": "Oversized Pullovers",
+      "Price": 1199,
+      "Type": "men",
+      "Rating": "4.2",
+      "wtype": "top"
+    },
+    {
+      "id": "4",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1714114915_9234406.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Peanuts: Reckless",
+      "Dis": "Oversized Full Sleeve T-Shirts",
+      "Price": 3599,
+      "Type": "men",
+      "Rating": "5.0",
+      "wtype": "top"
+    },
+    {
+      "id": "5",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1726325221_5236500.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Batman: Dark Knight",
+      "Dis": "Men Cargo Joggers",
+      "Price": 2599,
+      "Type": "men",
+      "Rating": "4.2",
+      "wtype": "bottom"
+    },
+    {
+      "id": "6",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1723038686_2722357.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Parachute Pants: Mocha Brown",
+      "Dis": "Men Parachute Pants",
+      "Price": 2199,
+      "Type": "men",
+      "Rating": "4.4",
+      "wtype": "bottom"
+    },
+    {
+      "id": "7",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1723038190_8919898.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Solids: Military Olive",
+      "Dis": "Men Cargo Shorts",
+      "Price": 899,
+      "Type": "men",
+      "Rating": "3.5",
+      "wtype": "bottom"
+    },
+    {
+      "id": "8",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1706855136_1393618.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Punisher: Logo",
+      "Dis": "Denim Joggers",
+      "Price": 1299,
+      "Type": "men",
+      "Rating": "4.1",
+      "wtype": "bottom"
+    },
+    {
+      "id": "9",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1708491577_1645532.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Spider-Man: Split Sneakers",
+      "Dis": "Men High Top Sneakers",
+      "Price": 2999,
+      "Type": "men",
+      "Rating": "4.4",
+      "wtype": "sneakers"
+    },
+    {
+      "id": "10",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1696401417_4597435.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Deadpool: Utility Suit",
+      "Dis": "Men High Top Sneakers",
+      "Price": 3299,
+      "Type": "men",
+      "Rating": "4.2",
+      "wtype": "sneakers"
+    },
+    {
+      "id": "11",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1726307688_9157635.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Naruto: Itachi",
+      "Dis": "Men High Top Sneakers",
+      "Price": 2699,
+      "Type": "men",
+      "Rating": "4.5",
+      "wtype": "sneakers"
+    },
+    {
+      "id": "12",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1718982515_6902911.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Urban Blaze: Athens",
+      "Dis": "Men Low Top Sneakers",
+      "Price": 2799,
+      "Type": "men",
+      "Rating": "4.1",
+      "wtype": "sneakers"
+    },
+    {
+      "id": "13",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1726929085_2999348.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Naruto: Hokage",
+      "Dis": "Men Perfumes",
+      "Price": 1499,
+      "Type": "men",
+      "Rating": "5.0",
+      "wtype": "perfumes"
+    },
+    {
+      "id": "14",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1698396570_3393343.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Batman: Rebirth",
+      "Dis": "Men Perfumes",
+      "Price": 1299,
+      "Type": "men",
+      "Rating": "4.1",
+      "wtype": "perfumes"
+    },
+    {
+      "id": "15",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1698396366_6627270.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Iron Man: Billionaire",
+      "Dis": "Men Perfumes",
+      "Price": 1399,
+      "Type": "men",
+      "Rating": "4.3",
+      "wtype": "perfumes"
+    },
+    {
+      "id": "16",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1698396457_4681503.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Black Panther: The King",
+      "Dis": "Men Perfumes",
+      "Price": 1299,
+      "Type": "men",
+      "Rating": "4.4",
+      "wtype": "perfumes"
+    }
+  ],
+  "womenproduct": [
+    {
+      "id": "17",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1711545222_6596638.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "FRIENDS: The One with Unagi",
+      "Dis": "Women Full Sleeves Tops",
+      "Price": 1199,
+      "Type": "women",
+      "Rating": "4.4",
+      "wtype": "top"
+    },
+    {
+      "id": "18",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1713952716_4260882.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Peanuts: Playtime",
+      "Dis": "Women Cropped Polos",
+      "Price": 699,
+      "Type": "women",
+      "Rating": "4.1",
+      "wtype": "top"
+    },
+    {
+      "id": "19",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1714737983_6606998.png?format=webp&w=300&dpr=1.3",
+      "Title": "Disney 100: The Goofy",
+      "Dis": "Women Oversized T-Shirts",
+      "Price": 999,
+      "Type": "women",
+      "Rating": "4.2",
+      "wtype": "top"
+    },
+    {
+      "id": "20",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1725010195_9750106.jpg?format=webp&w=300&dpr=2.0",
+      "Title": "TSS Originals: Made of Sunshine",
+      "Dis": "Women Relaxed Fit T-Shirts",
+      "Price": 899,
+      "Type": "women",
+      "Rating": "5.0",
+      "wtype": "top"
+    },
+    {
+      "id": "21",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1729667008_1344446.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Solids: Mushroom",
+      "Dis": "Women Flared Joggers",
+      "Price": 1199,
+      "Type": "women",
+      "Rating": "4.2",
+      "wtype": "bottom"
+    },
+    {
+      "id": "22",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1722341234_3141902.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "TSS Originals: Orange Racer",
+      "Dis": "Women Joggers",
+      "Price": 999,
+      "Type": "women",
+      "Rating": "4.4",
+      "wtype": "bottom"
+    },
+    {
+      "id": "23",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1729666958_3913562.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Powerpuff Girls: Saving The Day",
+      "Dis": "Women Flared Joggers",
+      "Price": 1499,
+      "Type": "women",
+      "Rating": "5.5",
+      "wtype": "bottom"
+    },
+    {
+      "id": "24",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1729844792_2217471.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Solids: Orange, Pink (Colourblock)",
+      "Dis": "Women Cargo Joggers",
+      "Price": 1049,
+      "Type": "women",
+      "Rating": "4.1",
+      "wtype": "bottom"
+    },
+    {
+      "id": "25",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1712301806_4749244.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Urban Blaze: Mocha",
+      "Dis": "Women Low Top Sneakers",
+      "Price": 2499,
+      "Type": "women",
+      "Rating": "4.4",
+      "wtype": "sneakers"
+    },
+    {
+      "id": "26",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1725773758_5552492.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "PPG: Bubbles",
+      "Dis": "Women Low Top Sneakers",
+      "Price": 2599,
+      "Type": "women",
+      "Rating": "4.2",
+      "wtype": "sneakers"
+    },
+    {
+      "id": "27",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1725773261_7296305.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "PPG: Blissful Blossom",
+      "Dis": "Women Low Top Sneakers",
+      "Price": 2599,
+      "Type": "women",
+      "Rating": "4.5",
+      "wtype": "sneakers"
+    },
+    {
+      "id": "28",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1725624717_2290344.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "PPG: Buttercup",
+      "Dis": "Women Low Top Sneakers",
+      "Price": 2599,
+      "Type": "women",
+      "Rating": "4.1",
+      "wtype": "sneakers"
+    },
+    {
+      "id": "29",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1722321047_6368473.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "The Lion King: Ready To Rule",
+      "Dis": "Mini Bags",
+      "Price": 1499,
+      "Type": "women",
+      "Rating": "5.0",
+      "wtype": "bags"
+    },
+    {
+      "id": "30",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1726043395_2500782.jpg?v=2?format=webp&w=300&dpr=1.3",
+      "Title": "Solids: Lavender Purple",
+      "Dis": "Mini Bags",
+      "Price": 1699,
+      "Type": "women",
+      "Rating": "4.1",
+      "wtype": "bags"
+    },
+    {
+      "id": "31",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1726042739_8192823.jpg?v=2?format=webp&w=300&dpr=1.3",
+      "Title": "Solids: Neon Green",
+      "Dis": "Mini Bags",
+      "Price": 1699,
+      "Type": "women",
+      "Rating": "4.3",
+      "wtype": "bags"
+    },
+    {
+      "id": "32",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1652088836_9068995.jpg?v=2?format=webp&w=300&dpr=1.3",
+      "Title": "Good Vibes Only",
+      "Dis": "Backs",
+      "Price": 999,
+      "Type": "women",
+      "Rating": "4.4",
+      "wtype": "bags"
+    }
+  ],
+  "kidsproduct": [
+    {
+      "id": "33",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/Hello-Kitty-Bows-&-Blooms-Co-ordset_12024_09_24-17-07-19.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Hello Kitty: Bows & Blooms Set",
+      "Dis": "kidswear",
+      "Price": 1328,
+      "Type": "kidswear",
+      "Rating": "4.4",
+      "wtype": "bottom"
+    },
+    {
+      "id": "34",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1%20(120)2024_09_25-14-15-11.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Hello Kitty: Cheery Set",
+      "Dis": "kidswear",
+      "Price": 758,
+      "Type": "kidswear",
+      "Rating": "4.1",
+      "wtype": "bottom"
+    },
+    {
+      "id": "35",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1726296307_1069304.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Hello Kitty: So Cute",
+      "Dis": "Girls Cotton Dresses",
+      "Price": 899,
+      "Type": "kidswear",
+      "Rating": "4.3",
+      "wtype": "bottom"
+    },
+    {
+      "id": "36",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1723121375_4878671.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Hello Kitty: Classic Logo",
+      "Dis": "Girls Cotton T-Shirts",
+      "Price": 299,
+      "Type": "kidswear",
+      "Rating": "4.4",
+      "wtype": "bottom"
+    },
+    {
+      "id": "37",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1724692057_3267477.gif?format=webp&w=300&dpr=1.3",
+      "Title": "Batman: Bat-Signal",
+      "Dis": "Boys Cotton T-Shirts",
+      "Price": 399,
+      "Type": "kidswear",
+      "Rating": "4.4",
+      "wtype": "top"
+    },
+    {
+      "id": "38",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1724691359_6921278.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Harry Potter: Deathly Hallows",
+      "Dis": "Boys Cotton Oversized T-Shirts",
+      "Price": 699,
+      "Type": "kidswear",
+      "Rating": "4.4",
+      "wtype": "top"
+    },
+    {
+      "id": "39",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1718262528_7473812.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Batman: Cut and Sew",
+      "Dis": "Boys Cotton T-Shirts",
+      "Price": 399,
+      "Type": "kidswear",
+      "Rating": "4.4",
+      "wtype": "top"
+    },
+    {
+      "id": "40",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1727680143_9705173.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Spiderman: Friendly Neighbourhood (Young Boys)",
+      "Dis": "Young Boys Cotton T-Shirts",
+      "Price": 599,
+      "Type": "kidswear",
+      "Rating": "4.4",
+      "wtype": "top"
+    },
+    {
+      "id": "41",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1687523427_9985818.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Powerpuff Girls: Buttercup",
+      "Dis": "Girls Cotton Hoodies",
+      "Price": 1499,
+      "Type": "kidswear",
+      "Rating": "4.4",
+      "wtype": "girl-j"
+    },
+    {
+      "id": "42",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1708085577_5248767.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "We Bare Bears: Snug Club",
+      "Dis": "Girls Cotton Hoodies",
+      "Price": 999,
+      "Type": "kidswear",
+      "Rating": "4.4",
+      "wtype": "girl-j"
+    },
+    {
+      "id": "43",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1687518972_7173789.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "TSS Originals: Unicorn",
+      "Dis": "Girls Puffer Jackets",
+      "Price": 2299,
+      "Type": "kidswear",
+      "Rating": "4.4",
+      "wtype": "girl-j"
+    },
+    {
+      "id": "44",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1689075835_9415302.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Disney: Happy Daisy",
+      "Dis": "Girls Puffer Jackets",
+      "Price": 1699,
+      "Type": "kidswear",
+      "Rating": "4.4",
+      "wtype": "girl-j"
+    },
+    {
+      "id": "45",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1699873997_1735180.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Spider-Man: True Blue",
+      "Dis": "Boys Sweatshirts",
+      "Price": 899,
+      "Type": "kidswear",
+      "Rating": "4.4",
+      "wtype": "boy-j"
+    },
+    {
+      "id": "46",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1704291876_7842752.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "Peanuts: Dribbling Snoopy",
+      "Dis": "Boys Sweatshirts",
+      "Price": 999,
+      "Type": "kidswear",
+      "Rating": "4.5",
+      "wtype": "boy-j"
+    },
+    {
+      "id": "47",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1700813678_6550341.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "TSS Originals: Raven Black (Ombre)",
+      "Dis": "Boys Zipper Hooded Jackets",
+      "Price": 1299,
+      "Type": "kidswear",
+      "Rating": "4.4",
+      "wtype": "boy-j"
+    },
+    {
+      "id": "48",
+      "Image": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1705498408_1543886.jpg?format=webp&w=300&dpr=1.3",
+      "Title": "TSS Originals: Dewberry",
+      "Dis": "Boys Zipper Hooded Jackets",
+      "Price": 1399,
+      "Type": "kidswear",
+      "Rating": "4.4",
+      "wtype": "boy-j"
+    }
+  ],
+  "cart": [],
+  "username": [
+    
+  ]
+}
